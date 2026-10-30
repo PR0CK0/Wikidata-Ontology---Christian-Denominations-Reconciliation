@@ -2,6 +2,8 @@
 
 **How does Wikidata classify 19 selected Christian church bodies—and what does that mean for discovering denominations?**
 
+<img src="assets/project-logo.png" alt="Christian Denominations Reconciliation project logo" width="220">
+
 [Live Wikidata project](https://www.wikidata.org/wiki/Wikidata:WikiProject_Ontology/Ontology_Course/Projects_Offering_3/Christian_Denominations_Reconciliation) · [Exact source revision](https://www.wikidata.org/w/index.php?oldid=2562414623) · [PowerPoint demo](presentation/demo.pptx) · [PDF demo](presentation/demo.pdf) · [Speaker notes](presentation/speaker-notes.md)
 
 This repository packages the complete project page, including its exploration tables, seven queries, 19 reviews, comparison table, references, and limitations. The page content below is a Markdown conversion of revision **2562414623**, saved on **30 October 2026 at 02:56:02 UTC**. Earlier result dates are retained; these are recorded snapshots, not claims about current live counts.
