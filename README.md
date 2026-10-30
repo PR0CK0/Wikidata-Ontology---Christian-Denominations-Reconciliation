@@ -8,6 +8,26 @@
 
 This repository packages the complete project page, including its exploration tables, seven queries, 19 reviews, comparison table, references, and limitations. The page content below is a Markdown conversion of revision **2562414623**, saved on **30 October 2026 at 02:56:02 UTC**. Earlier result dates are retained; these are recorded snapshots, not claims about current live counts.
 
+## Table of contents
+
+- [Attribution](#attribution)
+- [Start here](#start-here)
+- [Repository contents](#repository-contents)
+- [Query index](#query-index)
+- [Full project page](#full-project-page)
+- [Participants](#participants)
+- [Description](#description)
+- [Related Entries Already Present on Wikidata](#related-entries-already-present-on-wikidata)
+- [Exploratory queries](#exploratory-queries)
+- [The 19 selected churches](#the-19-selected-churches)
+- [Querying the selected records](#querying-the-selected-records)
+- [Individual reviews](#individual-reviews)
+- [Comparison table](#comparison-table)
+- [Common themes and conclusions](#common-themes-and-conclusions)
+- [Limitations: does starting with instance of miss anything?](#limitations-does-starting-with-instance-of-miss-anything)
+- [References](#references)
+- [Source and reuse](#source-and-reuse)
+
 ## Attribution
 
 Prepared collaboratively with **Codex (OpenAI)**, which assisted with query development, data analysis, writing, repository organization, and presentation preparation. **Tyler T. Procko** provided the research direction, selected and refined the scope, reviewed findings, and guided revisions.
