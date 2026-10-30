@@ -8,6 +8,10 @@
 
 This repository packages the complete project page, including its exploration tables, seven queries, 19 reviews, comparison table, references, and limitations. The page content below is a Markdown conversion of revision **2562414623**, saved on **30 October 2026 at 02:56:02 UTC**. Earlier result dates are retained; these are recorded snapshots, not claims about current live counts.
 
+## Attribution
+
+Prepared collaboratively with **Codex (OpenAI)**, which assisted with query development, data analysis, writing, repository organization, and presentation preparation. **Tyler T. Procko** provided the research direction, selected and refined the scope, reviewed findings, and guided revisions.
+
 ## Start here
 
 1. Present the seven-slide demo (about five minutes).
