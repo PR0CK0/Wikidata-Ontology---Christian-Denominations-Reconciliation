@@ -1,0 +1,20 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?type ?typeLabel ?count
+WHERE {
+  {
+    SELECT ?type (COUNT(DISTINCT ?item) AS ?count)
+    WHERE {
+      ?item wdt:P140/wdt:P279* wd:Q5043;
+            wdt:P31 ?type.
+    }
+    GROUP BY ?type
+  }
+  OPTIONAL {
+    ?type rdfs:label ?typeLabel.
+    FILTER(LANG(?typeLabel) = "en")
+  }
+}
+ORDER BY DESC(?count) ?type

@@ -1,0 +1,20 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX bd: <http://www.bigdata.com/rdf#>
+SELECT ?class ?classLabel ?count
+WHERE {
+  {
+    SELECT ?class (COUNT(DISTINCT ?item) AS ?count)
+    WHERE {
+      VALUES ?class {
+        wd:Q879146 wd:Q123129246 wd:Q995347
+        wd:Q94670589 wd:Q2638480 wd:Q34651
+      }
+      ?item wdt:P31 ?class.
+    }
+    GROUP BY ?class
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
+ORDER BY DESC(?count)

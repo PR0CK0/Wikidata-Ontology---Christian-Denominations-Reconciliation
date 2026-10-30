@@ -1,0 +1,10 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX p: <http://www.wikidata.org/prop/>
+PREFIX ps: <http://www.wikidata.org/prop/statement/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+SELECT ?type ?rank ?pathToDenomination WHERE {
+ wd:Q5415680 p:P31 ?statement.
+ ?statement ps:P31 ?type; wikibase:rank ?rank.
+ BIND(EXISTS { ?type wdt:P279* wd:Q879146 } AS ?pathToDenomination)
+}

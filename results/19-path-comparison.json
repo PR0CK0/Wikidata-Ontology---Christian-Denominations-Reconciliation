@@ -1,0 +1,369 @@
+{
+  "head" : {
+    "vars" : [ "church", "name", "viaInstance", "viaSubclass" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "church" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q463455"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "American Baptist Churches USA"
+      },
+      "viaInstance" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "true"
+      },
+      "viaSubclass" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      }
+    }, {
+      "church" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2422454"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Assemblies of God USA"
+      },
+      "viaInstance" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "true"
+      },
+      "viaSubclass" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      }
+    }, {
+      "church" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9592"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Catholic Church"
+      },
+      "viaInstance" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "true"
+      },
+      "viaSubclass" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      }
+    }, {
+      "church" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q922480"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Church of Scotland"
+      },
+      "viaInstance" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "true"
+      },
+      "viaSubclass" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      }
+    }, {
+      "church" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1089816"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Church of South India"
+      },
+      "viaInstance" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "true"
+      },
+      "viaSubclass" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      }
+    }, {
+      "church" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1189165"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Church of the Nazarene"
+      },
+      "viaInstance" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "true"
+      },
+      "viaSubclass" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      }
+    }, {
+      "church" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35032"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Eastern Orthodox Church"
+      },
+      "viaInstance" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "true"
+      },
+      "viaSubclass" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      }
+    }, {
+      "church" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q940272"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Ethiopian Evangelical Church Mekane Yesus"
+      },
+      "viaInstance" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "true"
+      },
+      "viaSubclass" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      }
+    }, {
+      "church" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5415680"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Evangelical Free Church of America"
+      },
+      "viaInstance" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      },
+      "viaSubclass" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      }
+    }, {
+      "church" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3066164"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Free Methodist Church"
+      },
+      "viaInstance" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      },
+      "viaSubclass" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      }
+    }, {
+      "church" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1128669"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Lutheran Church of Australia"
+      },
+      "viaInstance" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      },
+      "viaSubclass" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      }
+    }, {
+      "church" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q496651"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "National Baptist Convention, USA"
+      },
+      "viaInstance" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "true"
+      },
+      "viaSubclass" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      }
+    }, {
+      "church" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1149100"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Presbyterian Church (USA)"
+      },
+      "viaInstance" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "true"
+      },
+      "viaSubclass" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      }
+    }, {
+      "church" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3555519"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Presbyterian Church in America"
+      },
+      "viaInstance" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "true"
+      },
+      "viaSubclass" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      }
+    }, {
+      "church" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q626416"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Presbyterian Church in Korea (TongHap)"
+      },
+      "viaInstance" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "true"
+      },
+      "viaSubclass" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      }
+    }, {
+      "church" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q104319"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Seventh-day Adventist Church"
+      },
+      "viaInstance" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "true"
+      },
+      "viaSubclass" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      }
+    }, {
+      "church" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1351880"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "Southern Baptist Convention"
+      },
+      "viaInstance" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "true"
+      },
+      "viaSubclass" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      }
+    }, {
+      "church" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q198745"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "United Church of Canada"
+      },
+      "viaInstance" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "true"
+      },
+      "viaSubclass" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      }
+    }, {
+      "church" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q329646"
+      },
+      "name" : {
+        "type" : "literal",
+        "value" : "United Methodist Church"
+      },
+      "viaInstance" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "true"
+      },
+      "viaSubclass" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      }
+    } ]
+  }
+}

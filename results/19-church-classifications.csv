@@ -1,0 +1,34 @@
+church,name,type,typeLabel,foundByDenominationQuery
+http://www.wikidata.org/entity/Q463455,American Baptist Churches USA,http://www.wikidata.org/entity/Q879146,Christian denomination,true
+http://www.wikidata.org/entity/Q2422454,Assemblies of God USA,http://www.wikidata.org/entity/Q879146,Christian denomination,true
+http://www.wikidata.org/entity/Q9592,Catholic Church,http://www.wikidata.org/entity/Q2638480,church congregation,true
+http://www.wikidata.org/entity/Q9592,Catholic Church,http://www.wikidata.org/entity/Q34651,Christian Church,true
+http://www.wikidata.org/entity/Q9592,Catholic Church,http://www.wikidata.org/entity/Q4204511,historic Church,true
+http://www.wikidata.org/entity/Q9592,Catholic Church,http://www.wikidata.org/entity/Q879146,Christian denomination,true
+http://www.wikidata.org/entity/Q922480,Church of Scotland,http://www.wikidata.org/entity/Q163740,nonprofit organization,true
+http://www.wikidata.org/entity/Q922480,Church of Scotland,http://www.wikidata.org/entity/Q1649443,national Church,true
+http://www.wikidata.org/entity/Q922480,Church of Scotland,http://www.wikidata.org/entity/Q2325038,state church,true
+http://www.wikidata.org/entity/Q1089816,Church of South India,http://www.wikidata.org/entity/Q879146,Christian denomination,true
+http://www.wikidata.org/entity/Q1189165,Church of the Nazarene,http://www.wikidata.org/entity/Q879146,Christian denomination,true
+http://www.wikidata.org/entity/Q35032,Eastern Orthodox Church,http://www.wikidata.org/entity/Q34651,Christian Church,true
+http://www.wikidata.org/entity/Q35032,Eastern Orthodox Church,http://www.wikidata.org/entity/Q4204511,historic Church,true
+http://www.wikidata.org/entity/Q35032,Eastern Orthodox Church,http://www.wikidata.org/entity/Q879146,Christian denomination,true
+http://www.wikidata.org/entity/Q940272,Ethiopian Evangelical Church Mekane Yesus,http://www.wikidata.org/entity/Q879146,Christian denomination,true
+http://www.wikidata.org/entity/Q5415680,Evangelical Free Church of America,http://www.wikidata.org/entity/Q1530022,religious organization,false
+http://www.wikidata.org/entity/Q3066164,Free Methodist Church,http://www.wikidata.org/entity/Q13414953,religious denomination,false
+http://www.wikidata.org/entity/Q3066164,Free Methodist Church,http://www.wikidata.org/entity/Q43229,organization,false
+http://www.wikidata.org/entity/Q1128669,Lutheran Church of Australia,http://www.wikidata.org/entity/Q13414953,religious denomination,false
+http://www.wikidata.org/entity/Q1128669,Lutheran Church of Australia,http://www.wikidata.org/entity/Q1530022,religious organization,false
+http://www.wikidata.org/entity/Q496651,"National Baptist Convention, USA",http://www.wikidata.org/entity/Q43229,organization,true
+http://www.wikidata.org/entity/Q496651,"National Baptist Convention, USA",http://www.wikidata.org/entity/Q879146,Christian denomination,true
+http://www.wikidata.org/entity/Q3555519,Presbyterian Church in America,http://www.wikidata.org/entity/Q879146,Christian denomination,true
+http://www.wikidata.org/entity/Q626416,Presbyterian Church in Korea (TongHap),http://www.wikidata.org/entity/Q879146,Christian denomination,true
+http://www.wikidata.org/entity/Q1149100,Presbyterian Church (USA),http://www.wikidata.org/entity/Q879146,Christian denomination,true
+http://www.wikidata.org/entity/Q104319,Seventh-day Adventist Church,http://www.wikidata.org/entity/Q43229,organization,true
+http://www.wikidata.org/entity/Q104319,Seventh-day Adventist Church,http://www.wikidata.org/entity/Q879146,Christian denomination,true
+http://www.wikidata.org/entity/Q104319,Seventh-day Adventist Church,http://www.wikidata.org/entity/Q94670589,Christian organization,true
+http://www.wikidata.org/entity/Q1351880,Southern Baptist Convention,http://www.wikidata.org/entity/Q879146,Christian denomination,true
+http://www.wikidata.org/entity/Q198745,United Church of Canada,http://www.wikidata.org/entity/Q163740,nonprofit organization,true
+http://www.wikidata.org/entity/Q198745,United Church of Canada,http://www.wikidata.org/entity/Q43229,organization,true
+http://www.wikidata.org/entity/Q198745,United Church of Canada,http://www.wikidata.org/entity/Q879146,Christian denomination,true
+http://www.wikidata.org/entity/Q329646,United Methodist Church,http://www.wikidata.org/entity/Q879146,Christian denomination,true

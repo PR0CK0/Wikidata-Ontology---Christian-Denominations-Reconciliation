@@ -1,0 +1,36 @@
+{
+  "head" : {
+    "vars" : [ "type", "rank", "pathToDenomination" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q346575"
+      },
+      "rank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#NormalRank"
+      },
+      "pathToDenomination" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      }
+    }, {
+      "type" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1530022"
+      },
+      "rank" : {
+        "type" : "uri",
+        "value" : "http://wikiba.se/ontology#PreferredRank"
+      },
+      "pathToDenomination" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#boolean",
+        "type" : "literal",
+        "value" : "false"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,28 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?church ?name ?viaInstance ?viaSubclass WHERE {
+VALUES (?church ?name) {
+    (wd:Q3555519 "Presbyterian Church in America")
+    (wd:Q1149100 "Presbyterian Church (USA)")
+    (wd:Q922480 "Church of Scotland")
+    (wd:Q626416 "Presbyterian Church in Korea (TongHap)")
+    (wd:Q329646 "United Methodist Church")
+    (wd:Q3066164 "Free Methodist Church")
+    (wd:Q1189165 "Church of the Nazarene")
+    (wd:Q1128669 "Lutheran Church of Australia")
+    (wd:Q940272 "Ethiopian Evangelical Church Mekane Yesus")
+    (wd:Q1351880 "Southern Baptist Convention")
+    (wd:Q2422454 "Assemblies of God USA")
+    (wd:Q104319 "Seventh-day Adventist Church")
+    (wd:Q198745 "United Church of Canada")
+    (wd:Q1089816 "Church of South India")
+    (wd:Q5415680 "Evangelical Free Church of America")
+    (wd:Q463455 "American Baptist Churches USA")
+    (wd:Q496651 "National Baptist Convention, USA")
+    (wd:Q9592 "Catholic Church")
+    (wd:Q35032 "Eastern Orthodox Church")
+  }
+ BIND(EXISTS { ?church wdt:P31/wdt:P279* wd:Q879146 } AS ?viaInstance)
+ BIND(EXISTS { ?church wdt:P279+ wd:Q879146 } AS ?viaSubclass)
+}
+ORDER BY ?name

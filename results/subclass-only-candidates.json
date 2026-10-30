@@ -1,0 +1,548 @@
+{
+  "head" : {
+    "vars" : [ "candidate", "label" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1066782"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "autocephalous Eastern Orthodox church"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1070069"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "high church"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112951160"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Syriac Orthodox Christianity"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q113410285"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Old Believers in Lithuania"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11901700"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Old Believers in Estonia"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q123129246"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christian denominational family"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12484004"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Churches in Indonesia"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q128190322"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eastern Catholicism in Belgium"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13033171"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greek Catholic Church in Belarus"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1323511"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "low church"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q139266888"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Church in Magong City"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141658444"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mennonite denomination"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141658849"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sommerfeld Mennonites"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1544308"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "underground church"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1649443"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "national Church"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17094370"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18353976"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Noah Hoover Mennonite"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1891289"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Old Believers in Russia"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19375842"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Irvingism"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2018318"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Old Colony Mennonites"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21010111"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kleine Gemeinde"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22978165"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greek Catholic Church in the Czech Republic"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2325038"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "state church"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24936380"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Old Believers in Nizhny Novgorod Oblast"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24936478"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Old Believers in Western Siberia"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25035946"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "John W. Martin Mennonites"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25039451"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chinese church"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2537905"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2730339"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eastern Catholic Churches in North America"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28418512"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Local assembly"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2867062"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Assemblée du désert"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3045054"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30946843"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3586186"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3760895"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belokrinitskaya Hierarchy"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q403140"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "World Mission Society Church of God"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q426043"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "free church"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4316502"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4317924"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q44301618"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eastern Orthodox patriarchate"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4440531"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Old Believers in Latvia"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4440534"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Old Believers in Luhansk Oblast"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4507569"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chasovennye"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4808697"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Assembly of God Church of Sāmoa"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5053292"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Catholic house churches"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51077355"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greek Catholic Church in Poland"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5163105"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Conservative holiness movement"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5165399"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Continuing church"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5237176"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "David Martin Mennonites"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56318527"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5904411"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Weaverland Old Order Mennonite Conference"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60309282"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "former Christian denomination"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6566418"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Catholic particular church sui iuris"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6738024"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Major archiepiscopal church"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6770983"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Markham-Waterloo Mennonite Conference"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7654539"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Swedenborgian Church"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q873206"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chinese house church"
+      }
+    }, {
+      "candidate" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q97663883"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Old Believers in Altai"
+      }
+    } ]
+  }
+}

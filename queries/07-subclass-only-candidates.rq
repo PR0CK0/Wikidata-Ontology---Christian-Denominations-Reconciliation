@@ -1,0 +1,9 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT DISTINCT ?candidate ?label WHERE {
+ ?candidate wdt:P279+ wd:Q879146.
+ FILTER NOT EXISTS { ?candidate wdt:P31/wdt:P279* wd:Q879146 }
+ OPTIONAL { ?candidate rdfs:label ?label. FILTER(LANG(?label) = "en") }
+}
+ORDER BY ?candidate
